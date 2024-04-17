@@ -1,0 +1,12 @@
+{
+  "name": "mathparser.js",
+  "version": "1.0.0",
+  "description": "Evaluating mathematical expression.",
+  "main": "02 - Shunting Yard Algorithm.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "garr",
+  "license": "ISC"
+}
